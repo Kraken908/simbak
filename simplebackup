@@ -1,0 +1,1 @@
+ mkdir ./Backup && cp /etc/hosts ./Backup 
